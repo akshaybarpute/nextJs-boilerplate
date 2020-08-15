@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-ga": "^2.7.0",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "semantic-ui-react": "^0.88.2",
+    "uuid": "^8.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaybarpute/nextJs-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaybarpute/nextJs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/akshaybarpute/nextJs-boilerplate#readme"
+}
